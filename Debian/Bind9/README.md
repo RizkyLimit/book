@@ -9,3 +9,8 @@ Berikut adalah cara install bind9 di Linux Debian.
 ```bash
 apt-get install bind9 dnsutils
 ```
+2. Selanjutnya, masuk ke dalam folder direktori bind dengan cara cd `/etc/bind` didalam direktori tersebut terdapat beberapa file penting yang nantinya akan kita konfigurasi, berikut file bind.
+- File db.local   > untuk forward
+- File db.127     > untuk reverse
+- File named.conf.option
+- File named.conf.local
