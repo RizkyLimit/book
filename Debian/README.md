@@ -1,9 +1,7 @@
 # Debian
 Debian adalah sistem operasi yang dibangun dengan kernel Linux dan dapat Anda gunakan serta kembangkan secara gratis, karena sifatnya yang open-source. Kernel adalah inti yang membangun sistem operasi dan memanajemen software yang diinstal di dalamnya. Kernel juga mengatur memori, penyimpanan, dan segala proses yang terjadi dalam OS. 
 
-Sistem operasi ini menjadi semakin populer saat ini karena sistem operasi yang satu ini mendukung puluhan ribu aplikasi untuk diinstal di dalamnya. Mulai dari aplikasi perkantan seperti LibreOffice, program database, library untuk mengembangkan aplikasi, software multimedia, dan lain-lain. 
-
-Karena banyaknya packages atau aplikasi ini, Debian menjadi sistem operasi yang fleksibel dan dapat digunakan oleh siapapun. Tak hanya pengguna komputer secara umum, tapi juga developer dan cloud engineer yang mengelola server.
+Sistem operasi ini menjadi semakin populer saat ini karena sistem operasi yang satu ini mendukung puluhan ribu aplikasi untuk diinstal di dalamnya. Mulai dari aplikasi perkantan seperti LibreOffice, program database, library untuk mengembangkan aplikasi, software multimedia, dan lain-lain. Karena banyaknya packages atau aplikasi ini, Debian menjadi sistem operasi yang fleksibel dan dapat digunakan oleh siapapun. Tak hanya pengguna komputer secara umum, tapi juga developer dan cloud engineer yang mengelola server.
 
 ### Contents
 1. [Sejarah Debian](#sejarah-debian)
