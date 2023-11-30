@@ -11,12 +11,12 @@ MariaDB adalah sistem manajemen basis data relasional sumber terbuka, biasanya d
 # Tahap - Tahap Installasi
 1. [Memperbarui Paket](#step1)
 2. [Menginstall MariaDB](#step2)
-### Langkah 1 - Memperbarui Paket<a name="step1"></a>
+### Langkah 1 — Memperbarui Paket<a name="step1"></a>
 Pastikan memperbarui file indeks paket, dan memperbarui paket karena sangat penting untuk menjaga sistem Linux Anda tetap up-to-date dengan rilis paket terbaru.
 ```bash
 apt-get update && apt-get upgrade
 ```
-### Langkah 2 - Menginstall MariaDB<a name="step2"></a>
+### Langkah 2 — Menginstall MariaDB<a name="step2"></a>
 Install `MariaDB` dengan perintah berikut:
 ```bash
 apt-get install mariadb-server
